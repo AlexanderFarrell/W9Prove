@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b883e39a-c8c3-48c5-a861-096fd1959a98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/get_rate.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/express-validator/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/express-validator/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/express-validator/check/index.d.ts" afterDir="false" />
@@ -1356,22 +1354,17 @@
       <change afterPath="$PROJECT_DIR$/node_modules/validator/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/validator/validator.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/validator/validator.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/submit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/getRate.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/homepage.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/rateDisplay.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/submit.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/submit.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1408,8 +1401,16 @@
       <option name="presentableId" value="Default" />
       <updated>1604947055659</updated>
       <workItem from="1604947056756" duration="3621000" />
-      <workItem from="1605412303781" duration="6797000" />
+      <workItem from="1605412303781" duration="7205000" />
     </task>
+    <task id="LOCAL-00001" summary="Before">
+      <created>1605420958463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605420958463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1426,6 +1427,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Before" />
+    <option name="LAST_COMMIT_MESSAGE" value="Before" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="838" y="534" key="#Template_Data_Languages" timestamp="1604948579352">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -1439,22 +1444,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1011" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.1072.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605416009768" />
-    <state width="2539" height="400" key="GridCell.Tab.0.bottom" timestamp="1605420720300">
+    <state width="2539" height="400" key="GridCell.Tab.0.bottom" timestamp="1605421129822">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="400" key="GridCell.Tab.0.bottom/-1920.1072.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605420720300" />
-    <state width="2539" height="400" key="GridCell.Tab.0.center" timestamp="1605420720300">
+    <state width="2539" height="400" key="GridCell.Tab.0.bottom/-1920.1072.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605421129822" />
+    <state width="2539" height="400" key="GridCell.Tab.0.center" timestamp="1605421129822">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="400" key="GridCell.Tab.0.center/-1920.1072.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605420720300" />
-    <state width="2539" height="400" key="GridCell.Tab.0.left" timestamp="1605420720300">
+    <state width="2539" height="400" key="GridCell.Tab.0.center/-1920.1072.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605421129822" />
+    <state width="2539" height="400" key="GridCell.Tab.0.left" timestamp="1605421129822">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="400" key="GridCell.Tab.0.left/-1920.1072.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605420720300" />
-    <state width="2539" height="400" key="GridCell.Tab.0.right" timestamp="1605420720300">
+    <state width="2539" height="400" key="GridCell.Tab.0.left/-1920.1072.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605421129822" />
+    <state width="2539" height="400" key="GridCell.Tab.0.right" timestamp="1605421129822">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="400" key="GridCell.Tab.0.right/-1920.1072.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605420720300" />
+    <state width="2539" height="400" key="GridCell.Tab.0.right/-1920.1072.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1605421129822" />
     <state x="-1920" y="1072" width="1936" height="961" key="dock-window-1" timestamp="1605416430717">
       <screen x="-1920" y="1072" width="1920" height="1020" />
     </state>
